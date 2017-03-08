@@ -1,0 +1,10 @@
+
+.headerlinks {float: right;}
+
+h1{float: left; color: white; background-color: #4aaaa5; padding: 20px; 
+
+font-size: 30px; font-family: 'Georgia', Times, 'Times New Roman', serif; font-weight: bold;}
+
+header{overflow: auto; background-color: white;}
+
+.connectwithMe{float: right;}
